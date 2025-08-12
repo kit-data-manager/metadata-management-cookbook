@@ -1,0 +1,14 @@
+[book]
+authors = ["Sabrine Chelbi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "(Meta)data Management Cookbook"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+no-section-label = true
+fold = {enable = true, level = 0}
+git-repository-url = "https://github.com/sabrineChe/metadata-management-cookbook.git"
+additional-css = ["theme-adjustments.css"]
