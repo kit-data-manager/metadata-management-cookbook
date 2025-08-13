@@ -263,6 +263,60 @@
 
         </div>
 
+<script>
+            function updateThemeElements() {
+                try {
+                    var html = document.querySelector('html');
+                    var theme = localStorage.getItem('mdbook-theme');
+                    var white_themes = ["light"]
+                    var light_themes = ["rust"]
+                    var light_only_elements = html.getElementsByClassName("lightonly")
+                    var dark_only_elements = html.getElementsByClassName("darkonly")
+                    var white_only_elements = html.getElementsByClassName("whiteonly")
+                    console.log(theme)
+                    console.log(light_themes)
+                    if (light_themes.includes(theme)) {
+                        for (light_only of light_only_elements) {
+                            light_only.classList.remove("hideme")
+                        }
+                        for (dark_only of dark_only_elements) {
+                            dark_only.classList.add("hideme")
+                        }
+                        for (white_only of white_only_elements) {
+                            white_only.classList.add("hideme")
+                        }
+                    } else if (white_themes.includes(theme)) {
+                        for (light_only of light_only_elements) {
+                            light_only.classList.add("hideme")
+                        }
+                        for (dark_only of dark_only_elements) {
+                            dark_only.classList.add("hideme")
+                        }
+                        for (white_only of white_only_elements) {
+                            white_only.classList.remove("hideme")
+                        }
+                    } else {
+                        for (light_only of light_only_elements) {
+                            light_only.classList.add("hideme")
+                        }
+                        for (dark_only of dark_only_elements) {
+                            dark_only.classList.remove("hideme")
+                        }
+                        for (white_only of white_only_elements) {
+                            white_only.classList.add("hideme")
+                        }
+                    }
+                } catch (e) { }
+            }
+            updateThemeElements() // call it once in the beginning
+            // configure to call the function when theme changes.
+            // the theme is stored as a class in the html tag, so we observe changes in this tag.
+            var themeStorage = document.querySelector('html');
+            const config = { attributes: true, childList: false, subtree: false };
+            const callback = function(mutationsList, observer) {updateThemeElements()}
+            const observer = new MutationObserver(callback);
+            observer.observe(themeStorage, config);
+        </script>
         {{#if live_reload_endpoint}}
         <!-- Livereload script (if served using the cli tool) -->
         <script>
