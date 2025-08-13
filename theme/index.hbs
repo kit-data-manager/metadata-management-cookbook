@@ -142,8 +142,8 @@
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
-                {{> header}}
                 <div id="menu-bar-hover-placeholder"></div>
+                {{> header}}
                 <div id="menu-bar" class="menu-bar sticky">
                     <div class="left-buttons">
                         <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
@@ -170,7 +170,7 @@
                     <h1 class="menu-title">{{ book_title }}</h1>
 
                     <div class="right-buttons">
-<div class="logo-spacing-general">
+                        <div class="logo-spacing-general">
                             <a class="mobile-off logo-align-middle logo-card" href="https://kit.edu/" title="Karlsruhe Institute of Technology" aria-label="Visit the KIT Website">
                                 <img class="lightonly" src="{{ path_to_root }}kit_logo_en_black.svg" alt="KIT logo">
                                 <img class="darkonly" src="{{ path_to_root }}kit_logo_en_white.svg" alt="KIT logo">
@@ -263,7 +263,7 @@
 
         </div>
 
-<script>
+        <script>
             function updateThemeElements() {
                 try {
                     var html = document.querySelector('html');
