@@ -1,3 +1,5 @@
+/* Styles for the KIT Logos */
+
 /* When there is not enough space for the logo (e.g. on mobile)
    we simply add a new header for logos above. */
 .logo-header {
@@ -53,6 +55,7 @@
 
 /* if mobile */
 @media screen and (max-width: 1000px) {
+
     /* hide desktop things */
     .mobile-off {
         position: absolute;
@@ -75,84 +78,4 @@
     display: flex;
     width: 100%;
     justify-content: center;
-}
-
-/* Style the entire box */
-details.faq-box {
-  border: 2px solid #888;
-  border-radius: 8px;
-  padding: 1em;
-  margin: 1em 0;
-  background: #f9f9f9;
-}
-
-/* Move the arrow to the right */
-details.faq-box summary {
-  list-style: none; /* Remove default arrow */
-  cursor: pointer;
-  position: relative;
-  padding-right: 1.5em;
-  font-weight: bold;
-}
-
-/* Create a custom arrow on the right */
-details.faq-box summary::after {
-  content: "▶"; /* right-pointing arrow */
-  position: absolute;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  transition: transform 0.3s ease;
-  font-size: 1em;
-}
-
-/* Rotate arrow when open */
-details.faq-box[open] summary::after {
-  transform: translateY(-50%) rotate(90deg);
-}
-.ayu {
-details.faq-box {
-  background-color: #3a516e;
-  color: #FFFFFF;  
-  }
-  details.faq-box[open] > *:not(summary) {
-  color: #dbdbdb; /* black for the open content */
-}
-}
-.navy {
-details.faq-box {
-  background-color: #3a516e;
-  color: #FFFFFF;  
-  }
-  details.faq-box[open] > *:not(summary) {
-  color: #dbdbdb; /* black for the open content */
-}
-}
-.coal {
-details.faq-box {
-  background-color: #3a516e;
-  color: #FFFFFF;  
-  }
-  details.faq-box[open] > *:not(summary) {
-  color: #dbdbdb; /* black for the open content */
-}
-}
-.rust {
-details.faq-box {
-  background-color: #99908a;
-  color: #FFFFFF;  
-  }
-  details.faq-box[open] > *:not(summary) {
-  color: #dbdbdb; /* black for the open content */
-}
-}
-.light {
-details.faq-box {
-  background-color: #D3D3D3
-;
-  color: #FFFFFF;  
-  }
-  details.faq-box[open] > *:not(summary) {
-  color: #FFFFFF; /* black for the open content */
-}
 }

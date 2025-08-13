@@ -11,4 +11,4 @@ preferred-dark-theme = "navy"
 no-section-label = true
 fold = {enable = true, level = 0}
 git-repository-url = "https://github.com/kit-data-manager/metadata-management-cookbook.git"
-additional-css = ["theme-adjustments.css"]
+additional-css = ["logos.css", "faq-boxes.css"]
