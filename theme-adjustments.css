@@ -77,6 +77,8 @@
     justify-content: center;
 }
 
+/* Style for FAQ boxes using <details> and <summary> elements */
+
 /* Style the entire box */
 details.faq-box {
   border: 2px solid #888;
