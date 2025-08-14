@@ -2,7 +2,6 @@
 
 /* Style the entire box */
 details.faq-box {
-    border: 2px solid #888;
     border-radius: 8px;
     padding: 1em;
     margin: 1em 0;
@@ -55,8 +54,7 @@ details.faq-box[open] summary::after {
     }
 
     details.faq-box[open]>*:not(summary) {
-        color: #dbdbdb;
-        /* black for the open content */
+        color: #DCE6F0;
     }
 }
 
@@ -68,7 +66,6 @@ details.faq-box[open] summary::after {
 
     details.faq-box[open]>*:not(summary) {
         color: #dbdbdb;
-        /* black for the open content */
     }
 }
 
@@ -80,7 +77,6 @@ details.faq-box[open] summary::after {
 
     details.faq-box[open]>*:not(summary) {
         color: #dbdbdb;
-        /* black for the open content */
     }
 }
 
@@ -92,6 +88,5 @@ details.faq-box[open] summary::after {
 
     details.faq-box[open]>*:not(summary) {
         color: #FFFFFF;
-        /* black for the open content */
     }
 }
