@@ -25,7 +25,7 @@ This information represents your metadata and can be obtained from various sourc
 <details class="faq-box">
   <summary> I collected the metadata, but it doesn’t follow the selected schema. What should I do?</summary>
   
-You can either create the metadata document using a text editor by reviewing the attributes defined in the metadata schema and entering the corresponding values or use a form generated from the schema to enter the metadata. Using a form makes the process easier and reduces the risk of errors.
+You can either create the metadata document using a text editor by reviewing the attributes defined in the metadata schema and entering the corresponding values or use a form generated from the schema to enter the metadata. Using a form makes the process easier and reduces the risk of errors. An [online JSON editor](https://json-editor.github.io/json-editor/) is available to generate a form based on a JSON schema.
 [eXact lab](https://www.exact-lab.it/) offers an open-source desktop application called [Metadata Editor](https://metadata-editor.gitlab.io/documentation/) that provides a user interface, allowing users  to easily create metadata documents with the help of forms, generated from already stored metadata schemas. These schemas are available in two different instances: [one](https://matwerk.datamanager.kit.edu/frontend/schema-management.html) provided by the [NFDI-MatWerk](https://nfdi-matwerk.de/) community and the [second one](https://metarepo.nffa.eu/frontend/schema-management.html) offered by [NEP](https://nffa.eu/) and [JL-MDMC](https://jl-mdmc-helmholtz.de/) communities.  
 </details>
 <details class="faq-box">
