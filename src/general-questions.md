@@ -7,7 +7,7 @@ Metadata describes data by providing essential information that helps in its und
 <details class="faq-box">
   <summary>What is a metadata schema? Why is it important?</summary>
   
-A Metadata schema represents a template, which specifies the expected elements and how they are structured, such as attributes’ names, value types, rules, etc. Metadata schemas are actually files, which can be represented in various formats like [JSON](https://www.json.org/), [XML](https://www.w3schools.com/xml/xml_whatis.asp),... Using metadata schemas enables users to describe data with rich and structured metadata, enhancing the findability and reusability of the data.
+A metadata schema represents a template, which specifies the expected elements and how they are structured, such as attributes’ names, value types, rules, etc. Metadata schemas are actually files, which can be represented in various formats like [JSON](https://www.json.org/), [XML](https://www.w3schools.com/xml/xml_whatis.asp),... Using metadata schemas enables users to describe data with rich and structured metadata, enhancing the findability and reusability of the data.
 </details>
 <details class="faq-box">
   <summary>What is a metadata document? Why is it important?</summary>
@@ -18,7 +18,7 @@ A metadata document is a file including a digital description of data. It provid
   <summary>What is the difference between a metadata schema and a metadata document?
 </summary>
   
-While a metadata schema represents a file defining the structure and rules for metadata such as attributes definitions, a metadata document is a file containing the values for such attributes, describing specific data.
+While a metadata schema represents a file defining the structure and rules for metadata such as attributes definitions, a metadata document is a file containing the values for such attributes, describing specific data.  
 N.B.: A metadata document should be valid against the defined metadata schema, this means it should follow the rules described in the defined schema. 
 </details>
 <details class="faq-box">

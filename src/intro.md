@@ -12,4 +12,5 @@ This (Meta)data Management Cookbook is structured around three phases:
 
 The proposed cookbook is intended as a helpful example. It is required to follow it strictly or use the suggested services. However, be aware that skipping or modifying steps may impact later stages of the process.
 This quick cookbook offers a basic understanding. For more deeper insights into research data management, online courses are available: [Metadata Management: Key Essentials](https://publikationen.bibliothek.kit.edu/1000181088), [Fundamentals of Scientific Metadata](https://carpentries-incubator.github.io/scientific-metadata/), etc.
-If you have additional questions or suggestions to improve this cookbook, please feel free to contact [us](mailto:training@scc.kit.edu).
+If you have additional questions or suggestions to improve this cookbook, please feel free to contact [us](mailto:training@scc.kit.edu).  
+An introductory video to the (meta)data management cookbook is available [here](https://www.youtube.com/watch?v=BjJ-oKrttPk).
