@@ -1,0 +1,92 @@
+/* Styles for FAQ boxes using <details> and <summary> elements */
+
+/* Style the entire box */
+details.faq-box {
+    border-radius: 8px;
+    padding: 1em;
+    margin: 1em 0;
+    background: #f9f9f9;
+}
+
+/* Move the arrow to the right */
+details.faq-box summary {
+    list-style: none;
+    /* Remove default arrow */
+    cursor: pointer;
+    position: relative;
+    padding-right: 1.5em;
+    font-weight: bold;
+}
+
+/* Create a custom arrow on the right */
+details.faq-box summary::after {
+    content: "▶";
+    /* right-pointing arrow */
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.3s ease;
+    font-size: 1em;
+}
+
+/* Rotate arrow when open */
+details.faq-box[open] summary::after {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+.ayu {
+    details.faq-box {
+        background-color: #3a516e;
+        color: #FFFFFF;
+    }
+
+    details.faq-box[open]>*:not(summary) {
+        color: #dbdbdb;
+        /* black for the open content */
+    }
+}
+
+.navy {
+    details.faq-box {
+        background-color: #3a516e;
+        color: #FFFFFF;
+    }
+
+    details.faq-box[open]>*:not(summary) {
+        color: #DCE6F0;
+    }
+}
+
+.coal {
+    details.faq-box {
+        background-color: #3a516e;
+        color: #FFFFFF;
+    }
+
+    details.faq-box[open]>*:not(summary) {
+        color: #dbdbdb;
+    }
+}
+
+.rust {
+    details.faq-box {
+        background-color: #99908a;
+        color: #FFFFFF;
+    }
+
+    details.faq-box[open]>*:not(summary) {
+        color: #dbdbdb;
+    }
+}
+
+.light {
+    details.faq-box {
+        background-color: #D3D3D3;
+        color: #FFFFFF;
+    }
+
+    details.faq-box[open]>*:not(summary) {
+        color: #FFFFFF;
+    }
+}
