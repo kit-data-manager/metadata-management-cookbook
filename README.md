@@ -12,6 +12,6 @@ For more information, feel free to contact [us](training@scc.kit.edu)
 The (meta)data management cookbook is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 # Acknowledgements
-This work has been supported by the research program [‘Engineering Digital Futures’](https://www.helmholtz.de/en/research/research-fields/information/engineering-digital-futures/) of the [Helmholtz Association of German Research Centers](https://www.helmholtz.de/en) and the [Helmholtz Metadata Collaboration Platform (HMC)](https://helmholtz-metadaten.de/), with additional support by [NFDI-MatWerk](https://nfdi-matwerk.de/) (DFG project number 460247524).
+This work is supported by: the research program [‘Engineering Digital Futures’](https://www.helmholtz.de/en/research/research-fields/information/engineering-digital-futures/) of the [Helmholtz Association of German Research Centers](https://www.helmholtz.de/en); the [Helmholtz Metadata Collaboration Platform (HMC)](https://helmholtz-metadaten.de/); the consortium NFDI-MatWerk, funded by the [Deutsche Forschungsgemeinschaft](https://www.dfg.de/de)(DFG, German Research Foundation) under the [National Research Data Infrastructure](https://www.nfdi.de) – NFDI 38/1 – project number 460247524; the [Joint Laboratory Model and Data driven Materials Characterization](https://jl-mdmc-helmholtz.de/) (JL MDMC), a cross-centre platform of the [Helmholtz Association](https://www.helmholtz.de/); [NFFA-Europe-Pilot](https://nffa.eu/) (EU H2020 – n. 101007417).
 
 
