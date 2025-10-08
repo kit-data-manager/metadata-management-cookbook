@@ -9,6 +9,11 @@
     margin-top: 1em;
     margin-bottom: 0.5em;
 }
+.mobile-off.logo-align-middle.logo-card img {
+    width: 30mm;
+    height: 11mm;
+    object-fit: contain; 
+}
 
 /* Rough estimation of the spacing guidelines for the KIT logo.
    The border of the browser window does not need to be affected,
