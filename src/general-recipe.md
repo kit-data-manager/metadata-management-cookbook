@@ -1,2 +1,0 @@
-# General recipe
-The general recipe walks you through the essential stages of the (meta)data management process, once your data is produced and collected. It can be adapted to each user’s specific use case in order to ensure reproducibility. The recipe is organized as a series of simple, focused questions, each accompanied by a concise and clear answer.

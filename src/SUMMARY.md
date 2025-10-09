@@ -2,10 +2,10 @@
 
 - [Introduction](intro.md)
 
-- [General recipe](general-recipe.md)
+- [Questions & Answers](q&a.md)
     - [General questions](general-questions.md)
     - [Metadata Creation](metadata-creation.md)
     - [(Meta)data Management](metadata-management.md)
     - [(Meta)data Access](metadata-access.md)
 
-- [Specific recipes](specific_recipe.md)
+- [Recipes](recipe.md)

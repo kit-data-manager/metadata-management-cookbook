@@ -1,0 +1,2 @@
+# Q&A
+This section includes the frequently asked questions which walks you through the essential stages of the (meta)data management process, once your data is produced and collected. It can be adapted to each user’s specific use case in order to ensure reproducibility. This section is organized as a series of simple, focused questions, each accompanied by a concise and clear answer.

@@ -1,2 +1,0 @@
-# Specific recipes
-Coming soon
