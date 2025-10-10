@@ -9,14 +9,14 @@ Data and metadata can be stored together in the same location or separately in d
   
 Data can be stored in different locations like Electronic Lab Notebooks (ELNs), databases, filesystems or data repositories. Storing your data in repositories ensures that administrative metadata are created and stored. In addition, your data becomes better searchable and findable. This contributes to more efficient data management and alignment with [FAIR principles](https://rdcu.be/ewN9f).
 There exist general-purpose data repositories (such as [Zenodo](https://zenodo.org/)), which support a wide range of disciplines. Additionally, there are also registries which include different research data repositories (such as [re3data](https://www.re3data.org/)). Institutional repositories (such as [KITopen](https://www.bibliothek.kit.edu/kitopen.php)) are available and managed by universities to store and publish their outputs.
-Project-specific data repositories are also available, such as the [NFDI-MatWerk Data Repository](https://matwerk.datamanager.kit.edu/frontend/repo-management.html) hosted by the [NFDI-MatWerk](https://nfdi-matwerk.de/) consortium.
+We provide a [![data repository](https://img.shields.io/badge/Data%20Repository-blue)](https://demo.datamanager.kit.edu/next-frontend/base-repo/resources/) within a test environment. Project-specific data repositories are also available, such as the [NFDI-MatWerk Data Repository](https://matwerk.datamanager.kit.edu/frontend/repo-management.html) hosted by the [NFDI-MatWerk](https://nfdi-matwerk.de/) consortium.
  
 </details>
 <details class="faq-box">
   <summary>Where can I store my metadata?</summary>
   
 If you only need to store administrative metadata, this can be done when uploading your data to a repository, as all repositories support this functionality. However, if you want to include more detailed metadata to enrich your data documentation, there are dedicated metadata repositories available for this purpose.
-Project-specific metadata repositories are available, such as the [NFDI-MatWerk Metadata Repository](https://matwerk.datamanager.kit.edu/frontend/metadata-management.html) hosted by the [NFDI-MatWerk](https://nfdi-matwerk.de/) consortium and the [MetaRepo Metadata Repository](https://metarepo.nffa.eu/frontend/metadata-management.html) hosted by the [NEP](https://nffa.eu/) and [JL-MDMC](https://jl-mdmc-helmholtz.de/) consortia.
+We provide a [![metadata repository](https://img.shields.io/badge/Metadata%20Repository-blue)](https://demo.datamanager.kit.edu/next-frontend/metastore/metadata/) within a test environment. Project-specific metadata repositories are also available, such as the [NFDI-MatWerk Metadata Repository](https://matwerk.datamanager.kit.edu/frontend/metadata-management.html) hosted by the [NFDI-MatWerk](https://nfdi-matwerk.de/) consortium and the [MetaRepo Metadata Repository](https://metarepo.nffa.eu/frontend/metadata-management.html) hosted by the [NEP](https://nffa.eu/) and [JL-MDMC](https://jl-mdmc-helmholtz.de/) consortia.
 </details>
 <details class="faq-box">
   <summary>Can everybody see my (meta)data if I store it in a repository?</summary>

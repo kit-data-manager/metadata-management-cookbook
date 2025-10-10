@@ -34,7 +34,11 @@ details.faq-box summary::after {
 details.faq-box[open] summary::after {
     transform: translateY(-50%) rotate(90deg);
 }
-
+a img[src*="img.shields.io"] {
+  vertical-align: middle;
+  height: 20px;
+  margin-right: 6px;
+}
 .ayu {
     details.faq-box {
         background-color: #3a516e;
