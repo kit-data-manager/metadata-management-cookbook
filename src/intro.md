@@ -10,7 +10,8 @@ This (Meta)data Management Cookbook is structured around three phases:
 - **Cooking**: corresponds to the (meta)data management phase, where users can explore best practices for storing and maintaining (meta)data.
 - **Serving**: aligns with (meta)data access phase, where users learn how to make their (meta)data accessible, legally reusable, and how to access (meta)data created by others.
 
-The proposed cookbook is intended as a helpful example. It is required to follow it strictly or use the suggested services. However, be aware that skipping or modifying steps may impact later stages of the process.
-This quick cookbook offers a basic understanding. For more deeper insights into research data management, online courses are available: [Metadata Management: Key Essentials](https://publikationen.bibliothek.kit.edu/1000181088), [Fundamentals of Scientific Metadata](https://carpentries-incubator.github.io/scientific-metadata/), etc.
+The proposed cookbook is intended as a helpful example. It is not required to follow it strictly or use the suggested services. However, be aware that skipping or modifying steps may impact later stages of the process.
+This quick cookbook offers a basic understanding. We recommend beginning with deeper insights into research (meta)data management. Various online courses are available: [Metadata Management: Key Essentials](https://publikationen.bibliothek.kit.edu/1000181088), [Fundamentals of Scientific Metadata](https://carpentries-incubator.github.io/scientific-metadata/), etc.
+From there, the following sections will guide you through the different phases of data management introducing more technical solutions.
 If you have additional questions or suggestions to improve this cookbook, please feel free to contact [us](mailto:training@scc.kit.edu).  
 An introductory video to the (meta)data management cookbook is available [here](https://www.youtube.com/watch?v=BjJ-oKrttPk).
