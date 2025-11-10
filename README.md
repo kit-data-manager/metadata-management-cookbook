@@ -6,7 +6,7 @@ These tools are customized to meet the specific requirements of different projec
 
 # More Information
 An introduction to the (meta)data management cookbook can be found [here](https://jl-mdmc-helmholtz.de/mdmc-activities/metadata-working-group/metadata-management-cookbook/).
-For more information, feel free to contact [us](training@scc.kit.edu)
+For more information, feel free to contact [us](mailto:training@scc.kit.edu)
 
 ## License
 The (meta)data management cookbook is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
