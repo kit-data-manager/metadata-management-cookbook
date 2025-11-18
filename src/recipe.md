@@ -1,2 +1,1 @@
 # Recipes
-Coming soon
