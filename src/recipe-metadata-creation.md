@@ -14,4 +14,6 @@
   5. Download and review the extracted metadata document 
   
 **Servings**: A JSON metadata document is generated if the mapping completes successfully; otherwise, an error message is displayed.
+
+If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://youtu.be/0a-tA42eHuM?si=HfgxjOEa03yKh_lj)!
  
