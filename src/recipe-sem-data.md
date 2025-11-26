@@ -3,7 +3,7 @@
 This recipe guides you through practical steps to make your SEM (Scanning Electron Microscopy) data easier to share with collaborators, better findable, and legally reusable. The goal is to enhance discoverability and reusability of SEM data by aligning it with FAIR principles.
 The use case is divided into 3 main steps each presented as a separate section:
 - [**Metadata Creation**](recipe-metadata-creation.md): covers how to generate automatically metadata documents from SEM data
-- [**(Meta)data Management**](recipe-metadata-management.md): includes how to upload metadata documents to a Metadata Repository instance and how to share the metadata document  by adding a license and updating the access permissions.  
+- **(Meta)data Management**: includes how to [edit metadata documents](recipe-metadata-editing.md) using the Metadata Editor and how to [upload](recipe-metadata-upload.md) them to a Metadata Repository instance.
 - [**(Meta)data Access**](recipe-metadata-access.md): describes how to search for and access the metadata document using the search component.
 
 <div class="centerbox">
