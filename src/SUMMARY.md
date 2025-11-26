@@ -11,5 +11,6 @@
 - [Recipes](recipe.md)
     - [A Toolchain for managing SEM data](recipe-sem-data.md)
         - [Metadata Creation](recipe-metadata-creation.md)
-        - [(Meta)data Management](recipe-metadata-management.md)
+        - [Metadata Editing](recipe-metadata-editing.md)
+        - [Metadata Upload](recipe-metadata-upload.md)
         - [(Meta)data Access](recipe-metadata-access.md)
