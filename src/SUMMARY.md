@@ -14,3 +14,5 @@
         - [Metadata Editing](recipe-metadata-editing.md)
         - [Metadata Upload](recipe-metadata-upload.md)
         - [(Meta)data Access](recipe-metadata-access.md)
+        
+- [Game](gameinfo.md)

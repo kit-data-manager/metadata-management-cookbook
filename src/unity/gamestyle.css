@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #222;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 20px 0;
+}
+
+#unity-canvas {
+    width: 1280px;
+    height: 720px;
+    background: #000;
+}
+
+#unity-fullscreen-button {
+    display: none !important;
+}
+
+#canvas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
