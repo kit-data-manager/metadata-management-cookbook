@@ -4,6 +4,6 @@ This game will help you understand how metadata is validated, providing you with
 Explore the challenges, test your knowledge, and improve your skills in a fun and engaging way.
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="text-align:center;">
     <iframe src="unity/index.html" width="1280" height="720" frameborder="0" allowfullscreen></iframe>
 </div>
