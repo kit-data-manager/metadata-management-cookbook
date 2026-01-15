@@ -18,3 +18,5 @@
 6. Save your metadata document locally as a JSON file by selecting the "Export" button.  
 
 **Servings**: An edited JSON metadata document, which is locallly saved.
+
+If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://www.youtube.com/watch?v=w4VlrsNK24I&t=2s)!
