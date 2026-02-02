@@ -8,7 +8,7 @@
 
 **Steps**: 
 1. Access the [site search](https://demo.datamanager.kit.edu/search/?size=n_20_n) of the [Demo Frontend](https://demo.datamanager.kit.edu/).
-2. Apply the filters on the left hand-side to refine the list of metadata documents.
+2. Filter the list of metadata documents using the “SEM Metadata” index on the left hand-side. You should be able to see your uploaded metadata document and all other documents that follow the same schema.
 3. Check the content of your metadata document by clicking on the “View” button.
 	Both the metadata document and the related data can be downloaded.
 	
