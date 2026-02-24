@@ -5,7 +5,7 @@ This cookbook highlights services developed and offered by  [Scientific Computin
 These tools are customized to meet the specific requirements of different projects.
 
 # More Information
-An introduction to the (meta)data management cookbook can be found [here](https://jl-mdmc-helmholtz.de/mdmc-activities/metadata-working-group/metadata-management-cookbook/).
+An introduction to the (meta)data management cookbook can be found [here](https://jl-mdmc-helmholtz.de/mdmc-activities/metadata-wg/metadata-management-cookbook/).
 For more information, feel free to contact [us](mailto:training@scc.kit.edu)
 
 ## License
