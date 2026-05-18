@@ -23,6 +23,5 @@
         - [Editing an existing Crate](recipe-edit-existing-crate.md)
         - [Adding Files to a Crate](recipe-add-files-to-crate.md)
         - [Adding Authors to a Crate](recipe-add-authors-to-crate.md)
-        - [Importing an existing Crate](recipe-import-existing-crate.md)
 
 - [Game](gameinfo.md)

@@ -1,3 +1,0 @@
-# Importing an existing Crate
-
-Coming soon...
