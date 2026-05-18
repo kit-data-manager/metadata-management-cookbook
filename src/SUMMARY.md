@@ -17,4 +17,11 @@
         - [Metadata Upload](recipe-metadata-upload.md)
         - [(Meta)data Access](recipe-metadata-access.md)
 
+    - [Getting Started with Research Object Crates](recipe-research-object-crates.md)
+        - [Introduction to NovaCrate](recipe-intro-to-novacrate.md)
+        - [Creating a new Crate](recipe-create-new-crate.md)
+        - [Editing an existing Crate](recipe-edit-existing-crate.md)
+        - [Adding Files to a Crate](recipe-add-files-to-crate.md)
+        - [Adding Authors to a Crate](recipe-add-authors-to-crate.md)
+
 - [Game](gameinfo.md)
