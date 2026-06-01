@@ -2,7 +2,7 @@
 
 **Description**:
 
-NovaCrate is a browser-based editor for creating, editing, visualising, and validating Research Object Crates (RO-Crates). It helps researchers package data, metadata, and contextual information in a structured and reusable format without requiring direct editing of JSON-LD files.
+NovaCrate is a browser-based editor for creating, editing, visualising, and validating Research Object Crates (RO-Crates). It helps researchers package data, metadata, and contextual information in a structured and reusable format.
 
 **Ingredients**:
 
