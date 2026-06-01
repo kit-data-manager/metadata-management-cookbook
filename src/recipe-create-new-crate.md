@@ -14,10 +14,7 @@ This recipe guides you through creating a minimal RO-Crate from scratch using No
 2. Select **New RO-Crate**.
 3. Enter a name for your crate.
 4. Add a short description.
-5. Click on **Create**.
-
-   A minimal RO-Crate will be generated automatically. It includes the root dataset entity, the JSON metadata file, and the required contextual metadata structure.
-
+5. Click on **Create** to generate a minimal RO-Crate.
 6. Review the generated metadata in the **Entity Editor**.
 7. Optionally open the **Entity Graph** to inspect the initial crate structure.
 8. Click **Save** to store your changes.
