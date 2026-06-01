@@ -24,6 +24,6 @@ This recipe guides you through adding research files to an existing RO-Crate usi
 10. Click **Save** to store your changes.
 
 **Servings**:
-A RO-Crate containing a research file and its corresponding metadata.
+An RO-Crate containing a research file and its corresponding metadata.
 
 If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://www.youtube.com/watch?v=SVCJynLgvw0&list=PLG-7rvAIY3THSHKXr3bNUdoA2jRpa76t_&index=3)!

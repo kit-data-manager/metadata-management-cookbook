@@ -1,7 +1,7 @@
 # Adding Authors to a Crate
 
 **Description**:
-This recipe guides you through adding author information to a RO-Crate.
+This recipe guides you through adding author information to an RO-Crate.
 
 **Ingredients**:
 
@@ -25,6 +25,6 @@ This recipe guides you through adding author information to a RO-Crate.
 9. Click **Save** to store your changes.
 
 **Servings**:
-A RO-Crate containing author metadata linked to the research object.
+An RO-Crate containing author metadata linked to the research object.
 
 If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://www.youtube.com/watch?v=G4bowLwSfTo&list=PLG-7rvAIY3THSHKXr3bNUdoA2jRpa76t_&index=4)!
