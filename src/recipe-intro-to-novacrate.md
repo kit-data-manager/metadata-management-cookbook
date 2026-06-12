@@ -26,4 +26,9 @@ NovaCrate is a browser-based editor for creating, editing, visualising, and vali
 **Servings**:
 A basic understanding of the NovaCrate interface and its core functionality.
 
+You may now continue with:
+
+* [**Creating a New Crate**](recipe-create-new-crate.md)
+
+
 If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://www.youtube.com/watch?v=RsEHOeH9tJs&list=PLG-7rvAIY3THSHKXr3bNUdoA2jRpa76t_&index=1)!

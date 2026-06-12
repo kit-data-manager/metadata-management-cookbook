@@ -26,4 +26,9 @@ This recipe guides you through adding author information to an RO-Crate.
 **Servings**:
 An RO-Crate containing author metadata linked to the research object.
 
+You may now continue with:
+
+* [**Adding Files to a Crate**](recipe-add-files-to-crate.md)
+* [**Editing an Existing Crate**](recipe-edit-existing-crate.md)
+
 If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://www.youtube.com/watch?v=G4bowLwSfTo&list=PLG-7rvAIY3THSHKXr3bNUdoA2jRpa76t_&index=4)!

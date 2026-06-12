@@ -25,4 +25,9 @@ This recipe guides you through adding research files to an existing RO-Crate usi
 **Servings**:
 An RO-Crate containing a research file and its corresponding metadata.
 
+You may now continue with:
+
+* [**Adding Authors to a Crate**](recipe-add-authors-to-crate.md)
+* [**Editing an Existing Crate**](recipe-edit-existing-crate.md)
+
 If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://www.youtube.com/watch?v=SVCJynLgvw0&list=PLG-7rvAIY3THSHKXr3bNUdoA2jRpa76t_&index=3)!

@@ -22,4 +22,11 @@ This recipe guides you through creating a minimal RO-Crate from scratch using No
 **Servings**:
 A newly created RO-Crate containing the basic metadata structure and ready to be extended with research data and metadata.
 
+You may now continue with:
+
+* [**Adding Authors to a Crate**](recipe-add-authors-to-crate.md)
+* [**Adding Files to a Crate**](recipe-add-files-to-crate.md)
+* [**Editing an Existing Crate**](recipe-edit-existing-crate.md)
+
+
 If you prefer learning by watching, we’ve also made this recipe available as a [youtube video](https://www.youtube.com/watch?v=Bt0EdRO4rQk&list=PLG-7rvAIY3THSHKXr3bNUdoA2jRpa76t_&index=2)!
