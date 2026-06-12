@@ -11,7 +11,7 @@ This recipe guides you through adding research files to an existing RO-Crate usi
 
 **Steps**:
 
-1. Open the crate in [NovaCrate](https://novacrate.datamanager.kit.edu/editor).
+1. Open the RO-Crate in [NovaCrate](https://novacrate.datamanager.kit.edu/editor) by following steps 1–3 of the [**Editing an Existing Crate**](recipe-edit-existing-crate.md) recipe.
 2. Click **Add new Entity**.
 3. Select **File** from the *Data Entities*.
 4. Choose the file you want to upload.

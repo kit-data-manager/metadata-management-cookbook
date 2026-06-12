@@ -6,7 +6,7 @@ This recipe guides you through opening and modifying an existing RO-Crate using 
 
 **Ingredients**:
 
-- Existing RO-Crate
+- Existing RO-Crate: this can be your own RO-Crate or one created by following the [**Creating a new Crate**](recipe-create-new-crate.md) recipe.
 - Access to the NovaCrate web application
 - Web browser
 
@@ -22,7 +22,7 @@ This recipe guides you through opening and modifying an existing RO-Crate using 
 
 
 **Servings**: 
-An updated RO-Crate reflecting your changes.
+An updated RO-Crate with your changes reflected in the metadata.
 
 You may now continue with:
 
