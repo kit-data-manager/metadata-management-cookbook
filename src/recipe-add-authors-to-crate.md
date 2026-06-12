@@ -3,17 +3,15 @@
 **Description**:
 This recipe guides you through adding author information to an RO-Crate.
 
-This recipe assumes that you already have an RO-Crate. If not, please first follow the recipe on [**Creating a new Crate**](recipe-create-new-crate.md).
-
 **Ingredients**:
 
-- Existing RO-Crate
-- Access to the NovaCrate web application
-- Web browser
+- Existing RO-Crate: this can be your own RO-Crate or one created by following the [**Creating a new Crate**](recipe-create-new-crate.md) recipe.
+- Access to the NovaCrate web application.
+- Web browser.
 
 **Steps**:
 
-1. Open an existing crate in [NovaCrate](https://novacrate.datamanager.kit.edu/editor).
+1. Open the crate in [NovaCrate](https://novacrate.datamanager.kit.edu/editor).
 2. Click **Add new Entity**.
 3. Select **Person** from the *Contextual Entities*.
 4. Create the Person entity either by:
