@@ -5,8 +5,8 @@ This recipe guides you through creating a minimal RO-Crate from scratch using No
 
 **Ingredients**:
 
-- Access to the NovaCrate web application
 - Web browser
+- Access to the NovaCrate web application
 
 **Steps**:
 

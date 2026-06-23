@@ -6,8 +6,8 @@ NovaCrate is a browser-based editor for creating, editing, visualising, and vali
 
 **Ingredients**:
 
-* Access to the NovaCrate web application
-* Web browser
+- Web browser
+- Access to the NovaCrate web application
 
 **Steps**:
 

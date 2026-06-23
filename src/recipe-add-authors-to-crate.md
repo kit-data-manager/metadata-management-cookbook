@@ -6,8 +6,8 @@ This recipe guides you through adding author information to an RO-Crate.
 **Ingredients**:
 
 - Existing RO-Crate: this can be your own RO-Crate or one created by following the [**Creating a new Crate**](recipe-create-new-crate.md) recipe.
-- Access to the NovaCrate web application.
 - Web browser.
+- Access to the NovaCrate web application.
 
 **Steps**:
 
