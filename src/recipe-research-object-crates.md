@@ -1,7 +1,7 @@
 # Getting Started with Research Object Crates
 
 **Description**:
-Research outputs often consist of more than individual data files or metadata documents. They also include authors, documentation, software, publications, and relationships between these resources. [Research Object Crates (RO-Crates)](https://www.researchobject.org/ro-crate/about_ro_crate) provide a standardised way to organise these resources as a single research object, making them easier to share, reuse, and align with FAIR principles. This section guides you through the basic operations for working with RO-Crates using NovaCrate. The section is divided into the following recipes:
+Research outputs often consist of more than individual data files or metadata documents. They also include authors, documentation, software, publications, and relationships between these resources. [Research Object Crates (RO-Crates)](https://www.researchobject.org/ro-crate/about_ro_crate) provide a standardized way to organise these resources as a single research object, making them easier to share, reuse, and align with FAIR principles. This section guides you through the basic operations for working with RO-Crates using NovaCrate. The section is divided into the following recipes:
 
 - [**Introduction to NovaCrate**](recipe-intro-to-novacrate.md): provides an overview of the NovaCrate interface and its main features.
 - [**Creating a New Crate**](recipe-create-new-crate.md): explains how to create a minimal RO-Crate.
